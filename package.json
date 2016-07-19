@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xternbootcamp16/meganote-server.git"
+    "url": "git+https://github.com/mketiku/meganote-server.git"
   },
-  "author": "Dave Strus",
+  "author": "michael ketiku",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xternbootcamp16/meganote-server/issues"
+    "url": "https://github.com/mketiku/meganote-server/issues"
   },
-  "homepage": "https://github.com/xternbootcamp16/meganote-server#readme",
+  "homepage": "https://github.com/mketiku/meganote-server#readme",
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.1",
